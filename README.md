@@ -2,6 +2,8 @@
 
 Example of building a Bevy game as a wasm app and deploying it on github.
 
+[See the deployment here.](https://ethanjameslew.github.io/breakout-wasm/)
+
 ## How to install
 
 ```sh
